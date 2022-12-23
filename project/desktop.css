@@ -1,0 +1,100 @@
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+
+
+/* nav design start form here */
+.nav-logo{
+    margin-top: 10px;
+}
+.nav-heading{
+    margin-top: 30px;
+}
+
+.nav-menu{
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 55px;
+}
+
+.nav-menu a{
+    padding: 5px 12px;
+    margin: 10px;
+}
+
+/* nav design end from here */
+
+/* profile design start from here */
+
+.profile .top-icon{
+    
+    right: 40px;
+    width:130px;
+    transition: width 2s ,transform 2s ;
+ }
+
+ .profile .top-icon:hover{
+    width:160px;
+ }
+
+ 
+.profile .bottom-icon{
+    top:450px;
+    width:130px;
+    transition: width 2s ,transform 2s ;
+
+ }
+
+ .profile .bottom-icon:hover{
+    width:160px;
+ }
+.profile-des p{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+/* 
+profile design ends from here */
+
+/* about me start from here */
+.about-me img{
+    height: 280px;
+    width: 230px;
+    text-align: left;
+ }
+
+ .about-me-details{
+    text-align: left;
+ }
+
+ /* about me ends from here */
+
+ /* professional work starts from here */
+ .card{
+    padding: 5px;
+ }
+
+/* ends from here */
+
+/* achivement start from here */
+    .achivement-contact{
+        padding: 150px;
+    }
+
+    .contact button{
+        width: 120px;
+     }
+     
+
+/* ends from here */
